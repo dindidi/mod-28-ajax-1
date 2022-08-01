@@ -1,0 +1,61 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 62.5%;
+
+}
+
+body {
+    font-size: 1.8rem;
+    line-height: 1.618;
+    max-width: 38rem;
+    margin: auto;
+    color: #4a4a4a;
+    background-color: #f9f9f9;
+    padding: 13px;
+}
+
+
+
+
+
+
+
+.container {
+    max-width: auto;
+    margin: 0 auto;
+
+}
+
+
+#posts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+}
+
+h1, h3 {
+    line-height: 1.1;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: 700;
+    overflow-wrap: break-word ;
+    word-wrap: break-word;
+    word-break: break-all;
+    hyphens: auto;
+}
+
+h1 {
+    font-size: 2.35em;
+  }
+h3 {
+    font-size: 2em;
+  }
+
+p {
+    font-size: large;
+}
+.post-item {
+    width: 400px;
+}
+
